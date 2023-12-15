@@ -346,6 +346,7 @@ body{
     position: absolute;
     top: 20px;
     right: 20px;
+    padding-right:15px;
     border-radius: 10px;
     display: flex;
     justify-content: space-between;
