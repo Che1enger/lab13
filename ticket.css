@@ -299,9 +299,11 @@ form {
     margin-left: 20px;
   }
   .justname{
+    margin-top: -10px;
   text-align: center;  
 }
 .justprice{
+  margin-top: -10px;
   margin-right: 25px;
 }
   
